@@ -2,7 +2,7 @@
 
 For the Bron-Kerbosch algorithm, we modified the code directly from a public implementation on https://github.com/lizi-git/Bron-Kerbosch/blob/master/Bron-Kerbosch.java
 
-We implement our algorithm directly on the code of the classical alpha algorithm in the ProM framework.
+We implement our algorithm directly on the code of the classical alpha algorithm in the ProM framework (We modified the original AlphaAbstractionFactory.java file).
 
 # How to use the code?
 1. Import the AlphaMiner of the proM framework into eclipse
