@@ -9,7 +9,7 @@ We implement our algorithm directly on the code of the classical alpha algorithm
 2. Copy all the .java file into the org.processmining.alphaminer.abstractions (Please replace the AlphaAbstractionFactory.java)
 3. Run the proM from eclipse and use the classical alpha miner to discover models
 4. Follow the instructions in the eclipse console, type "yes" if you want to use our algorithm
-5. Type in the parallel activities in the following format and type "finish" after you have entered all of them:
+5. Read the parallel activities identified and add more based on your domain knowledge. Type in the parallel activities in the following format and type "finish" after you have entered all of them:
 activityname1,activityname2
 ...
 finish
