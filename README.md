@@ -1,4 +1,4 @@
-# An interactive approach to discover process models from incomplete event logs with domain knowledge
+# Discovering process models from incomplete event logs with domain knowledge
 
 For the Bron-Kerbosch algorithm, we modified the code directly from a public implementation on https://github.com/lizi-git/Bron-Kerbosch/blob/master/Bron-Kerbosch.java
 
